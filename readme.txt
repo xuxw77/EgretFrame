@@ -1,1 +1,1 @@
-Git three temp
+Let the player develop the game quickly, the game frame based on egret engine.       Creator -- elkX
