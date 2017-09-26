@@ -1,0 +1,40 @@
+{
+	"initial": [
+		"libs/modules/egret/egret.js",
+		"libs/modules/egret/egret.web.js",
+		"libs/modules/game/game.js",
+		"resourcemanager/resourcemanager.js",
+		"libs/modules/eui/eui.js",
+		"libs/modules/tween/tween.js",
+		"libs/modules/socket/socket.js",
+		"promise/bin/promise.js"
+	],
+	"game": [
+		"bin-debug/core/base/BaseClass.js",
+		"bin-debug/core/sound/SoundManager.js",
+		"bin-debug/AssetAdapter.js",
+		"bin-debug/core/consts/CoreEnum.js",
+		"bin-debug/core/consts/Keyboard.js",
+		"bin-debug/core/GlobalData.js",
+		"bin-debug/core/mvc/ControllerManager.js",
+		"bin-debug/core/mvc/ViewManager.js",
+		"bin-debug/core/scene/base/BaseScene.js",
+		"bin-debug/core/scene/base/BaseSpriteLayer.js",
+		"bin-debug/core/scene/base/BaseUILayer.js",
+		"bin-debug/core/scene/SceneManager.js",
+		"bin-debug/core/sound/SoundHandler.js",
+		"bin-debug/core/App.js",
+		"bin-debug/core/timer/TimerHandler.js",
+		"bin-debug/core/timer/TimerManager.js",
+		"bin-debug/core/utils/ArrayUtils.js",
+		"bin-debug/core/utils/DisplayUtils.js",
+		"bin-debug/core/utils/NumberUtils.js",
+		"bin-debug/core/utils/ObjectPool.js",
+		"bin-debug/core/utils/RandomUtils.js",
+		"bin-debug/core/utils/StageUtils.js",
+		"bin-debug/core/utils/StringUtils.js",
+		"bin-debug/LoadingUI.js",
+		"bin-debug/Main.js",
+		"bin-debug/ThemeAdapter.js"
+	]
+}
